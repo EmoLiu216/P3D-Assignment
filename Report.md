@@ -60,16 +60,5 @@ Application directory: https://github.com/glowkeeper/P3D/src/assignment
 
 ### Asset References
 
-+ [Standard Assets](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
-+ [Free Shipping Containers](https://assetstore.unity.com/packages/3d/environments/industrial/free-shipping-containers-18315)
-+ [Old USSR Lamp](https://assetstore.unity.com/packages/3d/props/electronics/old-ussr-lamp-110400)
-+ [PBR LAMPS PACK](https://assetstore.unity.com/packages/3d/props/interior/free-pbr-lamps-70181)
-+ [Ball Pack](https://assetstore.unity.com/packages/3d/props/ball-pack-446)
+Download free materials from the Internet, such as character models, make corresponding animations on mixamo, build walls and objects of the scene, and use 3Dmax to modify and improve the downloaded materials and finally use them in the game.
 
-### Script References
-
-...references to any scripts you've created.
-
-### Report References
-
-Peter Shirley, 2020, Ray Tracing in One Weekend, Diffuse Materials. Available at https://raytracing.github.io/books/RayTracingInOneWeekend.html#diffusematerials, Accessed October, 2020.
