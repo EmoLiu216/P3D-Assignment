@@ -46,7 +46,7 @@ Learn how to achieve the effects of pickup and parabolic throwing, button trigge
 
 ## link to GitHub repository
 
-![](.(https://github.com/EmoLiu216/P3D-Assignment))
+https://github.com/EmoLiu216/P3D-Assignment
 
 ## References
 
