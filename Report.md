@@ -12,6 +12,10 @@ This work is that shows people challenge on the first level.
 
 ![](./images/202300002345.jpg)
 
+1. The first part is scene construction, which is a UDP scene. Lighting, particle system, sound effect and animation are used to build a reasonable and real scene.
+
+2. The second aspect is the control of characters. The characters from the first-person perspective are used to explore various elements in the scene, animation is used to make the characters more realistic, bending down to pick up objects and throw objects on the hand, and detection is used to interact with elements in the scene.
+
 ## Design
 
 First of all, a cartoon-like scene was built using the material model package, and a two-story building was built and made to look very warm.  It is equipped with tables, chairs, kitchens, refrigerators, stoves, flowers, and other decorative items.  Make the scene look comfortable.
