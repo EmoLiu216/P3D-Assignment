@@ -73,3 +73,6 @@ Application directory: https://github.com/glowkeeper/P3D/src/assignment
 
 Download free materials from the Internet, such as character models, make corresponding animations on mixamo, build walls and objects of the scene, and use 3Dmax to modify and improve the downloaded materials and finally use them in the game.
 
+### Report References
+https://github.com/glowkeeper/Programmingfor3D/blob/main/docs/assignment/reportTemplate.md
+
