@@ -54,7 +54,7 @@ My scene demonstrates all the essential elements introduced throughout the labs,
 
 Technology: Learn how to achieve the effects of pickup and parabolic throwing, button trigger events and physical rigidbody and animation control playback through online resources. Improve the deficiencies of the first level, such as shaking of visual, character models, etc.
 
-Design:Plan out the Settings and content for the next 12 levels, noting the difficulty increases and adding more details.
+Design: Plan out the Settings and content for the next 12 levels, noting the difficulty increases and adding more details.
 
 ## link to GitHub repository
 
