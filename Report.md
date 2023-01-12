@@ -10,7 +10,7 @@ This work is that shows people challenge on the first level.
 
 ## Project Plan
 
-![](./images/basicProjectPlan.png)
+![](./images/kanban board.jpg)
 
 ## Design
 
