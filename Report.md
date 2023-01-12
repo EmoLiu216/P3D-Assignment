@@ -58,7 +58,8 @@ Below are all the references used in my application and report.
 
 Picture：https://www.ea.com/games/apex-legends?isLocalized=true
 
-Idea:1.backrooms.fandom.com
+Idea:1.https://backrooms.fandom.com/wiki/Backrooms_Wiki
+
 2.film "The World's End", directed by Edgar Wright, 2013
 
 
