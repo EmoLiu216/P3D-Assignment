@@ -51,6 +51,7 @@ https://github.com/EmoLiu216/P3D-Assignment
 ## References
 
 Below are all the references used in my application and report.
+picture：https://www.ea.com/games/apex-legends?isLocalized=true
 
 ### GitHub
 
