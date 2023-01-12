@@ -1,5 +1,5 @@
 # Report
----
+
 ## Introduction
 There is a first-person perspective to control the characters，and scenes contained tables, flames, and flowers.   And a click to start the game, automatically generate 9 cans, pick up the cans on the ground, from the second floor windowsill drop the second floor within the specified area, score 2 points is a successful challenge.
 
