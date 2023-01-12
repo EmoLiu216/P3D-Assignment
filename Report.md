@@ -3,6 +3,10 @@
 ## Introduction
 There is a first-person perspective to control the characters，and scenes contained tables, flames, and flowers.   And a click to start the game, automatically generate 9 cans, pick up the cans on the ground, from the second floor windowsill drop the second floor within the specified area, score 2 points is a successful challenge.
 
+Storyline：There will always be people in bad times, whether they are poor, in debt or even broken, who fall into the World‘s Edge when they wants to kill themselves. 
+The World‘s Edge is a cold world around the inner warm world, the outer cold is from the depression of real life, and the inner warm is the world that those who live in depression expect.
+There are 13 levels in the World‘s Edge, increasing in difficulty. People in the World‘s Edge must complete all the levels to return to the main world. If they fail to complete the levels, they will be punished by falling into 18 layers of hell.
+This work is that shows people challenge on the first level.
 
 ## Project Plan
 
@@ -51,7 +55,8 @@ https://github.com/EmoLiu216/P3D-Assignment
 ## References
 
 Below are all the references used in my application and report.
-picture：https://www.ea.com/games/apex-legends?isLocalized=true
+
+Picture：https://www.ea.com/games/apex-legends?isLocalized=true
 
 ### GitHub
 
