@@ -44,6 +44,8 @@ My scene demonstrates all the essential elements introduced throughout the labs,
 
 ![](./images/202300001234.png)
 
+![](./images/20230112122144.jpg)
+
 ## Future Work
 
 Learn how to achieve the effects of pickup and parabolic throwing, button trigger events and physical rigidbody and animation control playback through online resources.
