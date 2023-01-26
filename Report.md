@@ -57,11 +57,11 @@ Technology: Learn how to achieve the effects of pickup and parabolic throwing, b
 
 Design: Plan out the Settings and content for the next 12 levels, noting the difficulty increases and adding more details.
 
-## link to GitHub repository
+## Link to GitHub Repository
 
 https://github.com/EmoLiu216/P3D-Assignment
 
-## The whole game file link
+## The Whole Game File Link
 
 https://drive.google.com/file/d/1z5m95o1BnFF79xW7vJod3DDexw1dx8E8/view?usp=sharing
 
