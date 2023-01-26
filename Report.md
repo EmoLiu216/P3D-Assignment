@@ -9,6 +9,10 @@ The World‘s Edge is a cold world around the inner warm world, the outer cold i
 There are 13 levels in the World‘s Edge, increasing in difficulty. People in the World‘s Edge must complete all the levels to return to the main world. If they fail to complete the levels, they will be punished by falling into 18 layers of hell.
 This work is that shows people challenge on the first level.
 
+## Video Demonstration
+
+https://drive.google.com/file/d/1thmNRtA9Ei9rxmWN8VjaeO1aD277arah/view?usp=sharing
+
 ## Project Plan
 
 ![](./images/202300002345.jpg)
@@ -64,10 +68,6 @@ https://github.com/EmoLiu216/P3D-Assignment
 ## The Whole Game File Link
 
 https://drive.google.com/file/d/1z5m95o1BnFF79xW7vJod3DDexw1dx8E8/view?usp=sharing
-
-## Video Demonstration
-
-https://drive.google.com/file/d/1thmNRtA9Ei9rxmWN8VjaeO1aD277arah/view?usp=sharing
 
 ## References
 
